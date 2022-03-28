@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-Apenas algum texto para demosntração.
+Apenas algum texto para demonstração.
